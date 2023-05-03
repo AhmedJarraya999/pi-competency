@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'users',
     'studyplans',
     'feedbacks',
-    'comments'
+    'comments',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
